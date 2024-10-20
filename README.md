@@ -20,4 +20,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qwnbe&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qwnbe&theme=solarized_dark)
 
-<h2>Bye bro^^</h2>
+<h2>Bye bro^^ -- Last Update 20.10.24</h2>
