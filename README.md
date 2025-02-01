@@ -8,7 +8,7 @@
 <h4>📃Country - Russia <br />
 <h4>💻Work - Web Designer <br />
 <h4>👴My age - 32 years <br />
-
+<h4>PHP, JS, Python, HTML, CSS</h4>
 <h2>📈My Stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwnbe)](https://github.com/qwnbe/github-readme-stats)
@@ -20,4 +20,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qwnbe&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qwnbe&theme=solarized_dark)
 
-<h2>Bye bro^^ -- Last Update 20.10.24</h2>
+<h2>Bye -- Last Update 01.02.25</h2>
